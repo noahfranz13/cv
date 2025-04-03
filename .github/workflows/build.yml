@@ -13,12 +13,12 @@ jobs:
         with:
           args: >-
             --standalone
-            --output=main.md
-            main.tex
+            --output=cv.md
+            cv.tex
       - name: Compile LaTeX document to PDF
         uses: xu-cheng/latex-action@v3
         with:
-          root_file: main.tex
+          root_file: cv.tex
       - name: Upload markdown file
         run: |
           git config --global user.name "${{ github.repository_owner }}"

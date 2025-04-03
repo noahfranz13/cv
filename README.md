@@ -1,4 +1,6 @@
-# latex-template
+# CV
+My CV is hosted in this repo. I edited [gobborg's](https://github.com/gobborg) resume template for my use.
+
 ### [PDF File](./main.pdf)
 
 Template files for LaTeX files and such hosted on Github. You should use this repo as a template when creating paper repos. Or, you can just copy the files out of it and put them in a different repo.
@@ -10,4 +12,4 @@ Essentially, the goal of this is to create an open source and more collaborative
 2. Go into settings for that new repo then "Actions" -> "Workflow permissions" -> change to "Read and write permissions"
 
 ### Current Limitations
-* Texfile to compile to a pdf must be names main.tex
+* Texfile to compile to a pdf must be names main.

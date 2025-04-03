@@ -1,0 +1,117 @@
+
+\documentclass[letter,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{CJKutf8}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{fancyhdr}
+
+%====================
+% File:         resume.tex
+% Modifying author2:       https://github.com/mengisok 
+% Last Updated: Oct 29, 2022
+% Notes:        I edited again on the version of @gobborg      
+%====================
+
+%====================
+% File:         resume.tex
+% Modifying author1:       https://github.com/gobborg 
+% Last Updated: Dec 26, 2021
+% Notes:        I just made it prettier and better suited to
+%               my needs.
+%====================
+
+%====================
+% File:         resume.tex
+% Original author:       https://github.com/TimmyChan 
+%               https://www.linkedin.com/in/timmy-l-chan/
+% Last Updated: Nov 19, 2021
+% Notes:        All formatting is done in TLCresume.sty
+%               No need to touch that file. 
+%               All actual content is in the sections/ folder.
+%====================
+
+\usepackage{TLCresume}
+
+%====================
+% CONTACT INFORMATION
+%====================
+\author{Noah R. Franz} 
+\def\phone{(585) 690 - 2386}
+\def\orcid{0000-0003-4537-3575}
+\def\website{https://noahfranz13.github.io}
+\def\city{Tucson, AZ}
+\def\email{nfranz@arizona.edu}
+% blog edited in _header.tex
+\def\github{noahfranz13} % github username
+\def\LinkedIn{noahrfranz} % linkedin.com/in/______
+
+\begin{document}
+
+\nobibliography{sections/publications.bib}
+\bibliographystyle{unsrt} 
+
+\import{sections/}{_header}
+
+\section{Summary}
+\vspace*{5pt}
+\hrule
+\vspace*{5pt}
+\import{sections/}{summary}
+\vspace*{5pt}
+
+\section{Education}
+\vspace*{5pt}
+\hrule
+\vspace*{5pt}
+\import{sections/}{education}
+\vspace*{5pt}
+
+\section{Skills}
+\vspace*{5pt}
+\hrule
+\vspace*{5pt}
+\import{sections/}{skills}
+\vspace*{5pt}
+
+\section{Projects}
+\vspace*{5pt}
+\hrule
+\vspace*{5pt}
+\import{sections/}{projects}
+\vspace*{5pt}
+
+\section{Honors \& Awards}
+\vspace*{5pt}
+\hrule
+\vspace*{5pt}
+\import{sections/}{honors}
+\vspace*{5pt}
+
+\section{Teaching \& Outreach Experience}
+\vspace*{5pt}
+\hrule
+\vspace*{5pt}
+\import{sections/}{teaching}
+\vspace*{5pt}
+
+\section{Leadership \& Volunteer  Experience}
+\vspace*{5pt}
+\hrule
+\vspace*{5pt}
+\import{sections/}{leadership}
+\vspace*{5pt}
+
+\section{Publications, Presentations, \& Software}
+\vspace*{5pt}
+\hrule
+\vspace*{5pt}
+\import{sections}{publications}
+\vspace*{5pt}
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: LaTeX
+%%% TeX-master: t
+%%% End:

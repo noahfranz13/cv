@@ -1,1 +1,5 @@
 auto/
+*log
+*out
+*blg
+*aux

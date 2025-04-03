@@ -1,0 +1,52 @@
+\begin{thebibliography}{1}
+
+\bibitem{franz2023}
+Noah {Franz}, Mitchell {Dennis}, and Jeremy {Sakstein}.
+\newblock {Tip of the Red Giant Branch Bounds on the Neutrino Magnetic Dipole
+  Moment Revisited}.
+\newblock {\em arXiv e-prints}, page arXiv:2307.13050, July 2023.
+\newblock In Prep.
+
+\bibitem{franz2022}
+Noah Franz, Steve Croft, Andrew P.~V. Siemion, et~al.
+\newblock The breakthrough listen search for intelligent life: Technosignature
+  search of transiting tess targets of interest.
+\newblock {\em The Astronomical Journal}, 163(3):104, feb 2022.
+
+\bibitem{franz2023presentation}
+Noah Franz, Mitchell Dennis, and Jeremy Sakstein.
+\newblock Tip of the red giant branch constraints on the neutrino magnetic
+  dipole moment revisited.
+\newblock {\em 241st American Astronomical Society}, 2023.
+
+\bibitem{FranzHawaiiPresentation}
+Noah Franz.
+\newblock Neutrinos, machine learning, and stellar evolution.
+\newblock aug 2022.
+
+\bibitem{franz2022presentation}
+Noah Franz, Steve Croft, Andrew P.~V. Siemion, et~al.
+\newblock The breakthrough listen search for intelligent life: Technosignature
+  search of transiting tess targets of interest.
+\newblock {\em 73rd International Astronautical Congress}, 2022.
+
+\bibitem{franz2022presentationCancelled}
+Noah Franz, Steve Croft, Andrew P.~V. Siemion, et~al.
+\newblock The breakthrough listen search for intelligent life: Technosignature
+  search of transiting tess targets of interest.
+\newblock {\em 239th American Astronomical Society}, 2022.
+\newblock Conference cancelled due to the COVID-19 pandemic.
+
+\bibitem{franz2021Identifying}
+Noah Franz, Brian Bauer, and John Moustakas.
+\newblock Identifying {Strong} {Gravitational} {Lenses} in {DESI}
+  {Spectroscopy}.
+\newblock {\em 237th American Astronomical Society}, 53(1), jan 11 2021.
+\newblock https://baas.aas.org/pub/2021n1i125p05.
+
+\bibitem{bellis&Franz2023}
+Matt Bellis, Noah Franz, and Matt Dreyer.
+\newblock mattbellis/hepfile: v0.1.7, July 2023.
+\newblock https://doi.org/10.5281/zenodo.8171930.
+
+\end{thebibliography}
