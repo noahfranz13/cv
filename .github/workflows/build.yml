@@ -1,0 +1,27 @@
+name: Compile LaTeX
+
+on: push
+
+jobs:
+  convert_via_pandoc:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Set up Git repository
+        uses: actions/checkout@v4
+      - name: Compile LaTeX document to markdown
+        uses: docker://pandoc/core:3.5
+        with:
+          args: >-
+            --standalone
+            --output=main.md
+            main.tex
+      - name: Compile LaTeX document to PDF
+        uses: xu-cheng/latex-action@v3
+        with:
+          root_file: main.tex
+      - name: Upload markdown file
+        run: |
+          git config --global user.name "${{ github.repository_owner }}"
+          git config --global user.email "${{ github.repository_owner }}@users.noreply.github.com"
+          git commit -am "Automated commit from ${{ github.workflow }}"
+          git push
