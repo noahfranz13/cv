@@ -1,4 +1,35 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{2025arXiv251017104F}
+Noah {Franz}, Bhagya {Subrayan}, Charles~D. {Kilpatrick}, Griffin
+  {Hosseinzadeh}, David~J. {Sand}, Kate~D. {Alexander}, Wen-fai {Fong},
+  Collin~T. {Christy}, Jeniveve {Pearson}, Tanmoy {Laskar}, Brian {Hsu},
+  Jillian {Rastinejad}, Michael~J. {Lundquist}, Edo {Berger}, K.~Azalee
+  {Bostroem}, Clecio~R. {Bom}, Phelipe {Darc}, Mark {Gurwell}, Shelbi {Hostler
+  Schimpf}, Garrett~K. {Keating}, Phillip {Noel}, Conor {Ransome}, Ramprasad
+  {Rao}, Luidhy {Santana-Silva}, A.~{Souza Santos}, Manisha {Shrestha}, Ramya
+  {Anche}, Jennifer~E. {Andrews}, Sanchayeeta {Borthakur}, Nathaniel~R.
+  {Butler}, Deanne~L. {Coppejans}, Philip~N {Daly}, Kathryne~J. {Daniel},
+  Paul~C. {Duffell}, Tarraneh {Eftekhari}, Carl~E. {Fields}, Alexander~T.
+  {Gagliano}, Walter~W. {Golay}, Aldana {Grichener}, Erika~T. {Hamden}, Daichi
+  {Hiramatsu}, Harsh {Kumar}, Vikram {Manikantan}, Raffaella {Margutti},
+  Vasileios {Paschalidis}, Kerry {Paterson}, Daniel~E. {Reichart}, Mathieu
+  {Renzo}, Kali {Salmas}, Genevieve {Schroeder}, Nathan {Smith}, Kristine
+  {Spekkens}, Jay {Strader}, David~E. {Trilling}, Nicholas {Vieira}, Benjamin
+  {Weiner}, and Peter K.~G. {Williams}.
+\newblock {Optimizing Kilonova Searches: A Case Study of the Type IIb SN
+  2025ulz in the Localization Volume of the Low-Significance Gravitational Wave
+  Event S250818k}.
+\newblock {\em arXiv e-prints}, page arXiv:2510.17104, October 2025.
+
+\bibitem{2025arXiv250905405F}
+Noah {Franz}, Kate~D {Alexander}, Sebastian {Gomez}, Collin~T {Christy}, Tanmoy
+  {Laskar}, Sjoert {van Velzen}, Nicholas {Earl}, Suvi {Gezari}, Mitchell
+  {Karmen}, Raffaella {Margutti}, Jeniveve {Pearson}, V.~Ashley {Villar}, and
+  Ann~I {Zabludoff}.
+\newblock {The Open mulTiwavelength Transient Event Repository (OTTER):
+  Infrastructure Release and Tidal Disruption Event Catalog}.
+\newblock {\em arXiv e-prints}, page arXiv:2509.05405, September 2025.
 
 \bibitem{franz2023}
 Noah {Franz}, Mitchell {Dennis}, and Jeremy {Sakstein}.
@@ -12,6 +43,158 @@ Noah Franz, Steve Croft, Andrew P.~V. Siemion, et~al.
 \newblock The breakthrough listen search for intelligent life: Technosignature
   search of transiting tess targets of interest.
 \newblock {\em The Astronomical Journal}, 163(3):104, feb 2022.
+
+\bibitem{2025arXiv251022997C}
+Liyang {Chen}, Xiaofeng {Wang}, Qinyu {Wu}, Moira {Andrews}, Joseph {Farah},
+  Paolo {Ochner}, Andrea {Reguitti}, Thomas~G. {Brink}, Jujia {Zhang}, Cuiying
+  {Song}, Jialian {Liu}, Alexei~V. {Filippenko}, David~J. {Sand}, Irene
+  {Albanese}, Kate~D. {Alexander}, Jennifer {Andrews}, K.~Azalee {Bostroem},
+  Yongzhi {Cai}, Collin {Christy}, Ali {Esamdin}, Andrea {Farina}, Noah
+  {Franz}, D.~Andrew {Howell}, Brian {Hsu}, Maokai {Hu}, Abdusamatjan
+  {Iskandar}, Liping {Li}, Gaici {Li}, Dongyue {Li}, Wenxiong {Li}, Jinzhong
+  {Liu}, Curtis {McCully}, Megan {Newsome}, Yuan~Qi {Ni}, Andrea {Pastorello},
+  Estefania {Padilla Gonzalez}, Jeniveve {Pearson}, Haowei {Peng}, Conor
+  {Ransome}, Manisha {Shrestha}, Nathan {Smith}, Bhagya {Subrayan}, Giacomo
+  {Terreran}, Giorgio {Valerin}, J.~{Vink{\'o}}, Sergiy~S. {Vasylyev}, Letian
+  {Wang}, Zhenyu {Wang}, Hao {Wang}, J.~Craig {Wheeler}, Kathryn {Wynn},
+  Danfeng {Xiang}, Shengyu {Yan}, Weimin {Yuan}, Juan {Zhang}, WeiKang {Zheng},
+  and Yu~{Zhang}.
+\newblock {SN 2024iss: A Double-peaked Type IIb Supernova with Evidence of
+  Circumstellar Interaction}.
+\newblock {\em arXiv e-prints}, page arXiv:2510.22997, October 2025.
+
+\bibitem{2025ApJ...992L..18S}
+Itai {Sfaradi}, Raffaella {Margutti}, Ryan {Chornock}, Kate~D. {Alexander},
+  Brian~D. {Metzger}, Paz {Beniamini}, Rodolfo~Barniol {Duran}, Yuhan {Yao},
+  Assaf {Horesh}, Wael {Farah}, Edo {Berger}, Nayana {A.~J.}, Yvette {Cendes},
+  Tarraneh {Eftekhari}, Rob {Fender}, Noah {Franz}, Dave~A. {Green}, Erica
+  {Hammerstein}, Wenbin {Lu}, Eli {Wiston}, Yirmi {Bernstein}, Joe {Bright},
+  Collin~T. {Christy}, Luigi~F. {Cruz}, David~R. {DeBoer}, Walter~W. {Golay},
+  Adelle~J. {Goodwin}, Mark {Gurwell}, Garrett~K. {Keating}, Tanmoy {Laskar},
+  James C.~A. {Miller-Jones}, Alexander~W. {Pollak}, Ramprasad {Rao}, Andrew
+  {Siemion}, Sofia~Z. {Sheikh}, Nadav {Shoval}, and Sjoert {van Velzen}.
+\newblock {The First Radio-bright Off-nuclear Tidal Disruption Event AT 2024tvd
+  Reveals the Fastest-evolving Double-peaked Radio Emission}.
+\newblock {\em \apjl}, 992(2):L18, October 2025.
+
+\bibitem{2025arXiv250914317C}
+Collin~T. {Christy}, Kate~D. {Alexander}, Tanmoy {Laskar}, Noah {Franz},
+  Adelle~J. {Goodwin}, Jeniveve {Pearson}, Edo {Berger}, Yvette {Cendes}, Ryan
+  {Chornock}, Deanne {Coppejans}, Tarraneh {Eftekhari}, Raffaella {Margutti},
+  James C.~A. {Miller-Jones}, Melanie {Krips}, Enrico {Ramirez-Ruiz}, David~J.
+  {Sand}, Richard {Saxton}, Manisha {Shrestha}, and Sjoert {van Velzen}.
+\newblock {Dichotomy in Long-Lived Radio Emission from Tidal Disruption Events
+  AT 2020zso and AT 2021sdu: Multi-Component Outflows vs. Host Contamination}.
+\newblock {\em arXiv e-prints}, page arXiv:2509.14317, September 2025.
+
+\bibitem{2025arXiv250811756B}
+K.~Azalee {Bostroem}, Stefano {Valenti}, David~J. {Sand}, Jeniveve {Pearson},
+  Manisha {Shrestha}, Jennifer~E. {Andrews}, Luc {Dessart}, W.~V.
+  {Jacobson-Galan}, Brian {Hsu}, Aravind~P. {Ravi}, Moira {Andrews}, Collin
+  {Christy}, Yize {Dong}, Noah {Franz}, Joseph {Farah}, Alexei~V. {Filippenko},
+  Kiranjyot {Gill}, Emily~T. {Hoang}, Griffin {Hosseinzadeh}, D.~Andrew
+  {Howell}, Daryl {Janzen}, Jacob~E. {Jencson}, Saurabh~W. {Jha}, Lindsey~A.
+  {Kwok}, Michael {Lundquist}, Aidan {Martas}, Curtis {McCully}, Darshana
+  {Mehta}, Megan {Newsome}, Estefania {Padilla-Gonzalez}, Nicolas~E. {Meza
+  Retamal}, Nathan {Smith}, Bhagya~M. {Subrayan}, and Giacomo {Terreran}.
+\newblock {Late-time Hubble Space Telescope Ultraviolet Spectra of SN 2023ixf
+  and SN 2024ggi Show Ongoing Interaction with Circumstellar Material}.
+\newblock {\em arXiv e-prints}, page arXiv:2508.11756, August 2025.
+
+\bibitem{2025ApJ...989L..33K}
+Lindsey~A. {Kwok}, Mridweeka {Singh}, Saurabh~W. {Jha}, St{\'e}phane {Blondin},
+  Raya {Dastidar}, Conor {Larison}, Adam~A. {Miller}, Jennifer~E. {Andrews},
+  Moira {Andrews}, G.~C. {Anupama}, Katie {Auchettl}, Dominik {B{\'a}nhidi},
+  Barnabas {Barna}, K.~Azalee {Bostroem}, Thomas~G. {Brink}, R{\'e}gis
+  {Cartier}, Ping {Chen}, Collin~T. {Christy}, David~A. {Coulter}, Sofia
+  {Covarrubias}, Kyle~W. {Davis}, Connor~B. {Dickinson}, Yize {Dong}, Joseph~R.
+  {Farah}, Alexei~V. {Filippenko}, Andreas {Fl{\"o}rs}, Ryan~J. {Foley}, Noah
+  {Franz}, Christoffer {Fremling}, Llu{\'\i}s {Galbany}, Anjasha
+  {Gangopadhyay}, Aarna {Garg}, Peter {Garnavich}, Elinor~L. {Gates},
+  Or~{Graur}, Alexa~C. {Gordon}, Daichi {Hiramatsu}, Emily {Hoang}, D.~Andrew
+  {Howell}, Brian {Hsu}, Joel {Johansson}, Arti {Joshi}, Lordrick~A. {Kahinga},
+  Ravjit {Kaur}, Sahana {Kumar}, Piramon {Kumnurdmanee}, Hanindyo
+  {Kuncarayakti}, Natalie {LeBaron}, Chang {Liu}, Keiichi {Maeda}, Kate
+  {Maguire}, Curtis {McCully}, Darshana {Mehta}, Luca~M. {Menotti}, Anne~J.
+  {Metevier}, Kuntal {Misra}, C.~Tanner {Murphey}, Megan {Newsome}, Estefania
+  {Padilla Gonzalez}, Kishore~C. {Patra}, Jeniveve {Pearson}, Anthony~L.
+  {Piro}, Abigail {Polin}, Aravind~P. {Ravi}, Armin {Rest}, Nabeel
+  {Rehemtulla}, Nicolas {Meza Retamal}, Olivia~M. {Robinson}, C{\'e}sar
+  {Rojas-Bravo}, Devendra~K. {Sahu}, David~J. {Sand}, Brian~P. {Schmidt}, Steve
+  {Schulze}, Michaela {Schwab}, Manisha {Shrestha}, Matthew~R. {Siebert}, Sunil
+  {Simha}, Nathan {Smith}, Jesper {Sollerman}, Bhagya~M. {Subrayan}, Tam{\'a}s
+  {Szalai}, Kirsty {Taggart}, Rishabh~Singh {Teja}, Tea {Temim}, Jacco~H.
+  {Terwel}, Samaporn {Tinyanont}, Stefano {Valenti}, Jorge {Anais Vilchez},
+  J{\'o}zsef {Vink{\'o}}, Aya~L. {Westerling}, Yi~{Yang}, and WeiKang {Zheng}.
+\newblock {JWST and Ground-based Observations of the Type Iax Supernovae SN
+  2024pxl and SN 2024vjm: Evidence for Weak Deflagration Explosions}.
+\newblock {\em \apjl}, 989(2):L33, August 2025.
+
+\bibitem{2025arXiv250612729A}
+Kate~D. {Alexander}, Raffaella {Margutti}, Sebastian {Gomez}, Michael {Stroh},
+  Ryan {Chornock}, Tanmoy {Laskar}, Y.~{Cendes}, Edo {Berger}, Tarraneh
+  {Eftekhari}, Noah {Franz}, Aprajita {Hajela}, B.~D. {Metzger}, Giacomo
+  {Terreran}, Michael {Bietenholz}, Collin {Christy}, Fabio {de Colle},
+  S.~{Komossa}, Matt {Nicholl}, Enrico {Ramirez-Ruiz}, Richard {Saxton},
+  Genevieve {Schroeder}, Peter {Williams}, and William {Wu}.
+\newblock {The Multi-Wavelength Context of Delayed Radio Emission in TDEs:
+  Evidence for Accretion-Driven Outflows}.
+\newblock {\em arXiv e-prints}, page arXiv:2506.12729, June 2025.
+
+\bibitem{2025arXiv250502943S}
+Mridweeka {Singh}, Lindsey~A. {Kwok}, Saurabh~W. {Jha}, R.~{Dastidar}, Conor
+  {Larison}, Alexei~V. {Filippenko}, Jennifer~E. {Andrews}, Moira {Andrews},
+  G.~C. {Anupama}, Prasiddha {Arunachalam}, Katie {Auchettl}, Dominik
+  {B{\'A}nhidi}, Barnabas {Barna}, K.~Azalee {Bostroem}, Thomas~G. {Brink},
+  R{\'E}gis {Cartier}, Ping {Chen}, Collin~T. {Christy}, David~A. {Coulter},
+  Sofia {Covarrubias}, Kyle~W. {Davis}, Connor~B. {Dickinson}, Yize {Dong},
+  Joseph {Farah}, Andreas {Fl{\"O}rs}, Ryan~J. {Foley}, Noah {Franz},
+  Christoffer {Fremling}, Llu{\'I}s {Galbany}, Anjasha {Gangopadhyay}, Aarna
+  {Garg}, Elinor~L. {Gates}, Or~{Graur}, Alexa~C. {Gordon}, Daichi {Hiramatsu},
+  Emily {Hoang}, D.~Andrew {Howell}, Brian {Hsu}, Joel {Johansson}, Arti
+  {Joshi}, Lordrick~A. {Kahinga}, Ravjit {Kaur}, Sahana {Kumar}, Piramon
+  {Kumnurdmanee}, Hanindyo {Kuncarayakti}, Natalie {Lebaron}, C.~{Lidman},
+  Chang {Liu}, Keiichi {Maeda}, Kate {Maguire}, Bailey {Martin}, Curtis
+  {Mccully}, Darshana {Mehta}, Luca~M. {Menotti}, Anne~J. {Metevier}, A.~A.
+  {Miller}, Kuntal {Misra}, C.~{Tanner Murphey}, Megan {Newsome}, Estefania
+  {Padilla Gonzalez}, Kishore~C. {Patra}, Jeniveve {Pearson}, Anthony~L.
+  {Piro}, Abigail {Polin}, Aravind~P. {Ravi}, Armin {Rest}, Nabeel
+  {Rehemtulla}, Nicolas {Meza Retamal}, O.~M. {Robinson}, C{\'E}sar
+  {Rojas-Bravo}, Devendra~K. {Sahu}, David~J. {Sand}, Brian~P. {Schmidt}, Steve
+  {Schulze}, Michaela {Schwab}, Manisha {Shrestha}, Matthew~R. {Siebert}, Sunil
+  {Simha}, Nathan {Smith}, Jesper {Sollerman}, Shubham {Srivastav}, Bhagya~M.
+  {Subrayan}, Tam{\'A}s {Szalai}, Kirsty {Taggart}, Rishabh {Singh Teja},
+  Jacco~H. {Terwel}, Samaporn {Tinyanont}, Stefano {Valenti}, J{\'O}zsef
+  {Vink{\'O}}, Aya~L. {Westerling}, Yi~{Yang}, and Weikang {Zheng}.
+\newblock {Photometry and Spectroscopy of SN 2024pxl: A Luminosity Link Among
+  Type Iax Supernovae}.
+\newblock {\em arXiv e-prints}, page arXiv:2505.02943, May 2025.
+
+\bibitem{2025ApJ...980...37A}
+Jennifer~E. {Andrews}, Manisha {Shrestha}, K.~Azalee {Bostroem}, Yize {Dong},
+  Jeniveve {Pearson}, M.~M. {Fausnaugh}, David~J. {Sand}, S.~{Valenti},
+  Aravind~P. {Ravi}, Emily {Hoang}, Griffin {Hosseinzadeh}, Ilya {Ilyin}, Daryl
+  {Janzen}, M.~J. {Lundquist}, Nicol{\'a}s {Meza}, Nathan {Smith}, Saurabh~W.
+  {Jha}, Moira {Andrews}, Joseph {Farah}, Estefania {Padilla Gonzalez},
+  D.~Andrew {Howell}, Curtis {McCully}, Megan {Newsome}, Craig {Pellegrino},
+  Giacomo {Terreran}, Patrick {Wiggins}, Brian {Hsu}, Collin~T. {Christy}, Noah
+  {Franz}, Xiaofeng {Wang}, Jialian {Liu}, and Liyang {Chen}.
+\newblock {Asymmetries and Circumstellar Interaction in the Type II SN
+  2024bch}.
+\newblock {\em \apj}, 980(1):37, February 2025.
+
+\bibitem{2024MNRAS.535..471G}
+Sebastian {Gomez}, Matt {Nicholl}, Edo {Berger}, Peter~K. {Blanchard},
+  V.~Ashley {Villar}, Sofia {Rest}, Griffin {Hosseinzadeh}, Aysha {Aamer},
+  Yukta {Ajay}, Wasundara {Athukoralalage}, David~C. {Coulter}, Tarraneh
+  {Eftekhari}, Achille {Fiore}, Noah {Franz}, Ori {Fox}, Alexander {Gagliano},
+  Daichi {Hiramatsu}, D.~Andrew {Howell}, Brian {Hsu}, Mitchell {Karmen},
+  Matthew~R. {Siebert}, R{\'e}ka {K{\"o}nyves-T{\'o}th}, Harsh {Kumar}, Curtis
+  {McCully}, Craig {Pellegrino}, Justin {Pierel}, Armin {Rest}, and Qinan
+  {Wang}.
+\newblock {The Type I superluminous supernova catalogue I: light-curve
+  properties, models, and catalogue description}.
+\newblock {\em \mnras}, 535(1):471--515, November 2024.
 
 \bibitem{franz2023presentation}
 Noah Franz, Mitchell Dennis, and Jeremy Sakstein.
