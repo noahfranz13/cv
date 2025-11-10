@@ -1,5 +1,15 @@
 \begin{thebibliography}{10}
 
+\bibitem{otterapi}
+Noah Franz, Kate~D Alexander, and Sebastian Gomez.
+\newblock noahfranz13/otter, November 2025.
+\newblock https://github.com/astro-otter/otter.
+
+\bibitem{bellis&Franz2023}
+Matt Bellis, Noah Franz, and Matt Dreyer.
+\newblock mattbellis/hepfile: v0.1.7, July 2023.
+\newblock https://doi.org/10.5281/zenodo.8171930.
+
 \bibitem{2025arXiv251017104F}
 Noah {Franz}, Bhagya {Subrayan}, Charles~D. {Kilpatrick}, Griffin
   {Hosseinzadeh}, David~J. {Sand}, Kate~D. {Alexander}, Wen-fai {Fong},
@@ -196,6 +206,18 @@ Sebastian {Gomez}, Matt {Nicholl}, Edo {Berger}, Peter~K. {Blanchard},
   properties, models, and catalogue description}.
 \newblock {\em \mnras}, 535(1):471--515, November 2024.
 
+\bibitem{franz2025tdamm}
+Noah Franz.
+\newblock A tool for rapid object vetting and examination (trove).
+\newblock {\em 4th TDAMM Workshop: Advancing Community Observing Plans for
+  Rapid Follow-Up of Explosive Transients}, 2025.
+
+\bibitem{franz2025adassx}
+Noah Franz.
+\newblock The open multiwavelength transient event repository (otter).
+\newblock {\em ADASSx 2025 (Astronomical Data Analysis Software and Systems)},
+  2025.
+
 \bibitem{franz2023presentation}
 Noah Franz, Mitchell Dennis, and Jeremy Sakstein.
 \newblock Tip of the red giant branch constraints on the neutrino magnetic
@@ -226,10 +248,5 @@ Noah Franz, Brian Bauer, and John Moustakas.
   {Spectroscopy}.
 \newblock {\em 237th American Astronomical Society}, 53(1), jan 11 2021.
 \newblock https://baas.aas.org/pub/2021n1i125p05.
-
-\bibitem{bellis&Franz2023}
-Matt Bellis, Noah Franz, and Matt Dreyer.
-\newblock mattbellis/hepfile: v0.1.7, July 2023.
-\newblock https://doi.org/10.5281/zenodo.8171930.
 
 \end{thebibliography}
