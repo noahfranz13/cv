@@ -1,15 +1,5 @@
 \begin{thebibliography}{10}
 
-\bibitem{otterapi}
-Noah Franz, Kate~D Alexander, and Sebastian Gomez.
-\newblock noahfranz13/otter, November 2025.
-\newblock https://github.com/astro-otter/otter.
-
-\bibitem{bellis&Franz2023}
-Matt Bellis, Noah Franz, and Matt Dreyer.
-\newblock mattbellis/hepfile: v0.1.7, July 2023.
-\newblock https://doi.org/10.5281/zenodo.8171930.
-
 \bibitem{franz26b}
 Noah {Franz}, Kate~D {Alexander}, Sebastian {Gomez}, Collin~T {Christy}, Tanmoy
   {Laskar}, Sjoert {van Velzen}, Nicholas {Earl}, Suvi {Gezari}, Mitchell
@@ -60,6 +50,16 @@ Noah Franz, Steve Croft, Andrew P.~V. Siemion, et~al.
   search of transiting tess targets of interest.
 \newblock {\em The Astronomical Journal}, 163(3):104, feb 2022.
 
+\bibitem{2025arXiv250914317C}
+Collin~T. {Christy}, Kate~D. {Alexander}, Tanmoy {Laskar}, Noah {Franz},
+  Adelle~J. {Goodwin}, Jeniveve {Pearson}, Edo {Berger}, Yvette {Cendes}, Ryan
+  {Chornock}, Deanne {Coppejans}, Tarraneh {Eftekhari}, Raffaella {Margutti},
+  James C.~A. {Miller-Jones}, Melanie {Krips}, Enrico {Ramirez-Ruiz}, David~J.
+  {Sand}, Richard {Saxton}, Manisha {Shrestha}, and Sjoert {van Velzen}.
+\newblock {Dichotomy in Long-Lived Radio Emission from Tidal Disruption Events
+  AT 2020zso and AT 2021sdu: Multi-Component Outflows vs. Host Contamination}.
+\newblock {\em arXiv e-prints}, page arXiv:2509.14317, September 2025.
+
 \bibitem{2025arXiv251022997C}
 Liyang {Chen}, Xiaofeng {Wang}, Qinyu {Wu}, Moira {Andrews}, Joseph {Farah},
   Paolo {Ochner}, Andrea {Reguitti}, Thomas~G. {Brink}, Jujia {Zhang}, Cuiying
@@ -92,16 +92,6 @@ Itai {Sfaradi}, Raffaella {Margutti}, Ryan {Chornock}, Kate~D. {Alexander},
 \newblock {The First Radio-bright Off-nuclear Tidal Disruption Event AT 2024tvd
   Reveals the Fastest-evolving Double-peaked Radio Emission}.
 \newblock {\em \apjl}, 992(2):L18, October 2025.
-
-\bibitem{2025arXiv250914317C}
-Collin~T. {Christy}, Kate~D. {Alexander}, Tanmoy {Laskar}, Noah {Franz},
-  Adelle~J. {Goodwin}, Jeniveve {Pearson}, Edo {Berger}, Yvette {Cendes}, Ryan
-  {Chornock}, Deanne {Coppejans}, Tarraneh {Eftekhari}, Raffaella {Margutti},
-  James C.~A. {Miller-Jones}, Melanie {Krips}, Enrico {Ramirez-Ruiz}, David~J.
-  {Sand}, Richard {Saxton}, Manisha {Shrestha}, and Sjoert {van Velzen}.
-\newblock {Dichotomy in Long-Lived Radio Emission from Tidal Disruption Events
-  AT 2020zso and AT 2021sdu: Multi-Component Outflows vs. Host Contamination}.
-\newblock {\em arXiv e-prints}, page arXiv:2509.14317, September 2025.
 
 \bibitem{2025arXiv250811756B}
 K.~Azalee {Bostroem}, Stefano {Valenti}, David~J. {Sand}, Jeniveve {Pearson},
