@@ -10,16 +10,31 @@ Matt Bellis, Noah Franz, and Matt Dreyer.
 \newblock mattbellis/hepfile: v0.1.7, July 2023.
 \newblock https://doi.org/10.5281/zenodo.8171930.
 
-\bibitem{2025arXiv251017104F}
+\bibitem{franz26b}
+Noah {Franz}, Kate~D {Alexander}, Sebastian {Gomez}, Collin~T {Christy}, Tanmoy
+  {Laskar}, Sjoert {van Velzen}, Nicholas {Earl}, Suvi {Gezari}, Mitchell
+  {Karmen}, Raffaella {Margutti}, Jeniveve {Pearson}, V.~Ashley {Villar}, and
+  Ann~I {Zabludoff}.
+\newblock {The Open mulTiwavelength Transient Event Repository (OTTER):
+  Infrastructure Release and Tidal Disruption Event Catalog}.
+\newblock {\em arXiv e-prints}, page arXiv:2509.05405, September 2025.
+
+\bibitem{franz26a}
+Noah {Franz}, Kate {Alexander}, and Sebastian {Gomez}.
+\newblock {A Python API for OTTER}.
+\newblock {\em The Journal of Open Source Software}, 11(118):9516, February
+  2026.
+
+\bibitem{franz25}
 Noah {Franz}, Bhagya {Subrayan}, Charles~D. {Kilpatrick}, Griffin
   {Hosseinzadeh}, David~J. {Sand}, Kate~D. {Alexander}, Wen-fai {Fong},
   Collin~T. {Christy}, Jeniveve {Pearson}, Tanmoy {Laskar}, Brian {Hsu},
   Jillian {Rastinejad}, Michael~J. {Lundquist}, Edo {Berger}, K.~Azalee
-  {Bostroem}, Clecio~R. {Bom}, Phelipe {Darc}, Mark {Gurwell}, Shelbi {Hostler
-  Schimpf}, Garrett~K. {Keating}, Phillip {Noel}, Conor {Ransome}, Ramprasad
-  {Rao}, Luidhy {Santana-Silva}, A.~{Souza Santos}, Manisha {Shrestha}, Ramya
+  {Bostroem}, Clecio~R. {Bom}, Phelipe {Darc}, Mark {Gurwell}, Shelbi~Hostler
+  {Schimpf}, Garrett~K. {Keating}, Phillip {Noel}, Conor {Ransome}, Ramprasad
+  {Rao}, Luidhy {Santana-Silva}, A.~Souza {Santos}, Manisha {Shrestha}, Ramya
   {Anche}, Jennifer~E. {Andrews}, Sanchayeeta {Borthakur}, Nathaniel~R.
-  {Butler}, Deanne~L. {Coppejans}, Philip~N {Daly}, Kathryne~J. {Daniel},
+  {Butler}, Deanne~L. {Coppejans}, Philip~N. {Daly}, Kathryne~J. {Daniel},
   Paul~C. {Duffell}, Tarraneh {Eftekhari}, Carl~E. {Fields}, Alexander~T.
   {Gagliano}, Walter~W. {Golay}, Aldana {Grichener}, Erika~T. {Hamden}, Daichi
   {Hiramatsu}, Harsh {Kumar}, Vikram {Manikantan}, Raffaella {Margutti},
@@ -28,18 +43,9 @@ Noah {Franz}, Bhagya {Subrayan}, Charles~D. {Kilpatrick}, Griffin
   {Spekkens}, Jay {Strader}, David~E. {Trilling}, Nicholas {Vieira}, Benjamin
   {Weiner}, and Peter K.~G. {Williams}.
 \newblock {Optimizing Kilonova Searches: A Case Study of the Type IIb SN
-  2025ulz in the Localization Volume of the Low-Significance Gravitational Wave
+  2025ulz in the Localization Volume of the Low-significance Gravitational Wave
   Event S250818k}.
-\newblock {\em arXiv e-prints}, page arXiv:2510.17104, October 2025.
-
-\bibitem{2025arXiv250905405F}
-Noah {Franz}, Kate~D {Alexander}, Sebastian {Gomez}, Collin~T {Christy}, Tanmoy
-  {Laskar}, Sjoert {van Velzen}, Nicholas {Earl}, Suvi {Gezari}, Mitchell
-  {Karmen}, Raffaella {Margutti}, Jeniveve {Pearson}, V.~Ashley {Villar}, and
-  Ann~I {Zabludoff}.
-\newblock {The Open mulTiwavelength Transient Event Repository (OTTER):
-  Infrastructure Release and Tidal Disruption Event Catalog}.
-\newblock {\em arXiv e-prints}, page arXiv:2509.05405, September 2025.
+\newblock {\em \apjl}, 994(2):L45, December 2025.
 
 \bibitem{franz2023}
 Noah {Franz}, Mitchell {Dennis}, and Jeremy {Sakstein}.
